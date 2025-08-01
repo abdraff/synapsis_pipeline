@@ -1,1 +1,0 @@
-# synapsis_pipeline
