@@ -1,0 +1,6 @@
+# Ignore database data
+clickhouse/data/
+mysql/data/
+
+# Ignore logs
+pipeline/logs/
